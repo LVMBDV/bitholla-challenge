@@ -9,5 +9,6 @@
   },
   "extends": "eslint:recommended",
   "rules": {
+    "quotes": [ "error", "double" ]
   }
 }
